@@ -4,19 +4,8 @@
 <br><br>Последнее время занимаюсь обеспечением кратного роста компаний и применением DataScience к различным консервативным областям, например Real Estate Invesment.
 <br><br>Ниже несколько примеров, как можно обеспечить развитие бизнеса через DataScience, выполненных мной лично:
 
-<style>
-  .markdown-table {
-    border-collapse: collapse; /* Убираем двойные границы между ячейками */
-    width: 100%; /* Опционально: задаем ширину таблицы */
-  }
-  .markdown-table th,
-  .markdown-table td {
-    border: none; /* Убираем границы */
-    padding: 0; /* Убираем отступы */
-  }
-</style>
 
-<table class="markdown-table">
+<table borders=none, padding=0>
 <tr><td>1. <b>Телекоммуникационная компания</b> - разработка модели для прогноза оттока клиентов</td></tr>
 <tr><td>Стек и инструменты: Python, pandas, Jupiter Notebook. Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие. Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.</td></tr>
 <tr><td>&nbsp;</td></tr>
