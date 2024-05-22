@@ -3,9 +3,22 @@
 Я работаю в ИТ более 20 лет, прошел обе цепочки - программирования и инфраструктуры. Поработав в разных отраслях я достиг понимания как заставлять технологии помогать бизнесу и как делать бизнес при помощи ИТ. Люблю разбираться что и как работает, остаюсь на острие новейших технологий и если это целесообразно, активно включаюсь в работу на любом уровне. Люблю создавать что то новое в стартапах или средних по размерам бизнесах и не люблю быть винтиком в большой бюрократической машине.
 <br><br>Последнее время занимаюсь обеспечением кратного роста компаний и применением DataScience к различным консервативным областям, например Real Estate Invesment.
 <br><br>Ниже несколько примеров, как можно обеспечить развитие бизнеса через DataScience, выполненных мной лично:
-<table>
+
+<style>
+  .markdown-table {
+    border-collapse: collapse; /* Убираем двойные границы между ячейками */
+    width: 100%; /* Опционально: задаем ширину таблицы */
+  }
+  .markdown-table th,
+  .markdown-table td {
+    border: none; /* Убираем границы */
+    padding: 0; /* Убираем отступы */
+  }
+</style>
+
+<table class="markdown-table">
 <tr><td>1. <b>Телекоммуникационная компания</b> - разработка модели для прогноза оттока клиентов</td></tr>
-<tr><td>Стек и инструменты: Python, pandas, Jupiter Notebook. Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие. Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna./td></td></tr>
+<tr><td>Стек и инструменты: Python, pandas, Jupiter Notebook. Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие. Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>2. <b>Поиск наиболее привлекательных городов для инвестиций в Residential Real Estate под стратегию Rental по всему миру</b></td></tr>
 <tr><td>Инструменты: Python, pandas, OpenStreetMap. Агрегация и нормализация справочников. Работа с источниками из Numbeo, ISO, мировых данных по городам и публикация нормализованных данных через Folio, GeoJSON (посмотреть результат в виде html файла)</td></tr>
