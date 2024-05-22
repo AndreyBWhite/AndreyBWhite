@@ -5,7 +5,7 @@
 <br><br>Ниже несколько примеров, как можно обеспечить развитие бизнеса через DataScience, выполненных мной лично:
 
 
-<table borders=none, padding=0>
+<table>
 <tr><td>1. <b>Телекоммуникационная компания</b> - разработка модели для прогноза оттока клиентов</td></tr>
 <tr><td>Стек и инструменты: Python, pandas, Jupiter Notebook. Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие. Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.</td></tr>
 <tr><td>&nbsp;</td></tr>
