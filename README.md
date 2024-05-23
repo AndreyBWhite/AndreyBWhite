@@ -7,13 +7,13 @@
 
 <table>
 <tr><td>1. <b>Телекоммуникационная компания</b> - разработка модели для прогноза оттока клиентов</td></tr>
-<tr><td>Стек и инструменты: Python, pandas, Jupiter Notebook. Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие. Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.</td></tr>
+<tr><td>Инструменты: Python, pandas, Jupiter Notebook.<br>Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие.<br>Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>2. <b>Поиск наиболее привлекательных городов для инвестиций в Residential Real Estate под стратегию Rental по всему миру</b></td></tr>
-<tr><td>Инструменты: Python, pandas, OpenStreetMap. Агрегация и нормализация справочников. Работа с источниками из Numbeo, ISO, мировых данных по городам и публикация нормализованных данных через Folio, GeoJSON ([Посмотреть результат](https://github.com/AndreyBWhite/AndreyBWhite/blob/main/BestWWGrossRentalYield2024/Output/GRY_2024_worldmap.html))</td></tr>
+<tr><td>Инструменты: Python, pandas, OpenStreetMap.<br>Агрегация и нормализация справочников. Работа с источниками из Numbeo, ISO, мировых данных по городам и публикация нормализованных данных через Folio, GeoJSON.<br>[Посмотреть результат](https://drive.google.com/drive/folders/1ynX5eQuGNgWCT9LU-as5QBYCRwgk5JMI?usp=sharing)Используйте Ctrl или правую кнопку мыши, чтобы открыть в новой вкладке. </td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td>3. <b>Модель оценки справедливой цены и инструмент поиска наилучших предложений среди объектов Residential Real Estate на Кипре</b>(демонстрационная offline версия сервиса).</td></tr>
-<tr><td>Python, pandas, MongoDB (для обработки больших объемов JSON), PostgreSQL. Публикация через Folio, GeoJSON (посмотреть результат в виде html файла)</td></tr>
+<tr><td>3. <b>Модель оценки справедливой цены и инструмент поиска наилучших предложений среди объектов Residential Real Estate на Кипре</b></td></tr>
+<tr><td>Инструменты: Python, pandas, MongoDB (для обработки больших объемов JSON), PostgreSQL.<br>Публикация через Folio, GeoJSON (посмотреть результат в виде html файла)<br>[Посмотреть результат](https://drive.google.com/drive/folders/1ynX5eQuGNgWCT9LU-as5QBYCRwgk5JMI?usp=sharing)Используйте Ctrl или правую кнопку мыши, чтобы открыть в новой вкладке.</td></tr>
 </table>
 
 
