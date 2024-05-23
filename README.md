@@ -10,10 +10,10 @@
 <tr><td>Инструменты: Python, pandas, Jupiter Notebook.<br>Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие.<br>Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>2. <b>Поиск наиболее привлекательных городов для инвестиций в Residential Real Estate под стратегию Rental по всему миру</b></td></tr>
-<tr><td>Инструменты: Python, pandas, OpenStreetMap.<br>Агрегация и нормализация справочников. Работа с источниками из Numbeo, ISO, мировых данных по городам и публикация нормализованных данных через Folio, GeoJSON.<br>[Посмотреть результат](https://drive.google.com/file/d/1yq7P9U8rlkE1JSVNpe7z4uuanovAEM30/view?usp=sharing) Используйте Ctrl или правую кнопку мыши, чтобы открыть в новой вкладке. </td></tr>
+<tr><td>Инструменты: Python, pandas, OpenStreetMap.<br>Агрегация и нормализация справочников. Работа с источниками из Numbeo, ISO, мировых данных по городам и публикация нормализованных данных через Folio, GeoJSON.<br>[Посмотреть результат](https://AndreyBWhite.github.io/AndreyBWhite/docs/GRY_2024_worldmap.html) Используйте Ctrl или правую кнопку мыши, чтобы открыть в новой вкладке. </td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>3. <b>Модель оценки справедливой цены и инструмент поиска наилучших предложений среди объектов Residential Real Estate на Кипре</b></td></tr>
-<tr><td>Инструменты: Python, pandas, MongoDB (для обработки больших объемов JSON), PostgreSQL.<br>Публикация через Folio, GeoJSON (посмотреть результат в виде html файла)<br>[Посмотреть результат](https://drive.google.com/file/d/1ywXxuHbj9rxyuvErGYcACwiSwjIqnfHd/view?usp=sharing) Используйте Ctrl или правую кнопку мыши, чтобы открыть в новой вкладке.</td></tr>
+<tr><td>Инструменты: Python, pandas, MongoDB (для обработки больших объемов JSON), PostgreSQL.<br>Публикация через Folio, GeoJSON (посмотреть результат в виде html файла)<br>[Посмотреть результат](https://AndreyBWhite.github.io/AndreyBWhite/docs/Best_ppsqm_all_Paphos.html) Используйте Ctrl или правую кнопку мыши, чтобы открыть в новой вкладке.</td></tr>
 </table>
 
 
