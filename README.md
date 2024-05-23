@@ -7,7 +7,7 @@
 
 <table>
 <tr><td>1. <b>Телекоммуникационная компания</b> - разработка модели для прогноза оттока клиентов</td></tr>
-<tr><td>Инструменты: Python, pandas, Jupiter Notebook.<br>Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие.<br>Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.</td></tr>
+<tr><td>Инструменты: Python, pandas, Jupiter Notebook.<br>Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие.<br>Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.<br>Посмотреть тетрадку Jupiter Notebook: https://github.com/AndreyBWhite/AndreyBWhite/blob/main/TelecomCustomerAttrition/TelecomCustomerAttrition.ipynb</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>2. <b>Поиск наиболее привлекательных городов для инвестиций в Residential Real Estate под стратегию Rental по всему миру</b></td></tr>
 <tr><td>Инструменты: Python, pandas, OpenStreetMap.<br>Агрегация и нормализация справочников. Работа с источниками из Numbeo, ISO, мировых данных по городам и публикация нормализованных данных через Folio, GeoJSON.<br>Посмотреть: https://AndreyBWhite.github.io/AndreyBWhite/GRY_2024_worldmap.html </td></tr>
