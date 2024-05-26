@@ -8,10 +8,10 @@ I have over 20 years of experience in IT, working as both a specialist and a man
 <tr><td>Tools: Python, pandas, Jupyter Notebook.<br>Models: LogisticRegression, SVM, DecisionTreeClassifier, RandomForestClassifier, CatBoostClassifier, and others.<br>Optimization through GridSearchCV, RandomizedSearchCV, Optuna.<br>Correlation analysis - phik. Product set analysis - upsetplot.<br>Visualization - matplotlib, seaborn.<br>View Jupyter Notebook: <a href="https://github.com/AndreyBWhite/AndreyBWhite/blob/main/TelecomCustomerAttrition/TelecomCustomerAttrition.ipynb">TelecomCustomerAttrition.ipynb</a></td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>2. <b>Identifying the most attractive cities for Residential Real Estate Investment for Rental Strategy Worldwide</b></td></tr>
-<tr><td>Tools: Python, pandas, OpenStreetMap.<br>Aggregation and normalization of reference data. Working with sources from Numbeo, ISO, global city data, and publishing normalized data via Folium, GeoJSON.<br>View interactive map: <a href="https://AndreyBWhite.github.io/AndreyBWhite/GRY_2024_worldmap.html">GRY_2024_worldmap.html</a></td></tr>
+<tr><td>Tools: Python, pandas, OpenStreetMap.<br>Aggregation and normalization of reference data. Working with sources from Numbeo, ISO, global city data, and publishing normalized data via Folium, GeoJSON.<br>View interactive map: <a href="https://AndreyBWhite.github.io/DemoProjects/GRY_2024_worldmap.html">GRY_2024_worldmap.html</a></td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>3. <b>Fair price valuation Model and Tool for finding the best deals among Residential Real Estate properties in Cyprus</b></td></tr>
-<tr><td>Tools: Python, pandas, MongoDB (for processing large size of JSON), PostgreSQL.<br>Publication via Folium, GeoJSON.<br>View interactive map: <a href="https://AndreyBWhite.github.io/AndreyBWhite/Best_ppsqm_all_Paphos.html">Best_ppsqm_all_Paphos.html</a></td></tr>
+<tr><td>Tools: Python, pandas, MongoDB (for processing large size of JSON), PostgreSQL.<br>Publication via Folium, GeoJSON.<br>View interactive map: <a href="https://AndreyBWhite.github.io/DemoProjects/Best_ppsqm_all_Paphos.html">Best_ppsqm_all_Paphos.html</a></td></tr>
 </table>
 
 Some more about me:
