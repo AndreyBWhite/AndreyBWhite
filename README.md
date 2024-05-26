@@ -1,27 +1,27 @@
-👋 Привет,  я Андрей.
+👋 Hi, I'm Andrey.
 
-Я работаю в ИТ более 20 лет, поработал в программировании и обеспечении инфраструктуры, применял ITIL, COBIT и TOGAF. Использовал AGILE/SCRUM еще до того как они стали популярными. Поработав в разных отраслях я достиг понимания как заставлять технологии помогать бизнесу и как делать бизнес при помощи ИТ. Люблю разбираться что и как работает, остаюсь на острие последних технологий и, если это целесообразно, активно включаюсь в работу на любом уровне. Люблю создавать что-то новое в стартапах или средних по размерам бизнесах и не люблю быть винтиком в большой бюрократической машине.
-<br><br>Последнее время занимаюсь обеспечением кратного роста компаний и применением DataScience и AI к различным консервативным областям, например Real Estate Invesment.
-<br><br>Ниже несколько примеров, как можно обеспечить развитие бизнеса через DataScience, выполненных мной лично:
+I have over 20 years of experience in IT, working as both a specialist and a manager in programming and infrastructure. I have applied ITIL, COBIT, and TOGAF frameworks and used AGILE/SCRUM methodologies before they became mainstream. Through working in various industries, I've developed an understanding of how to leverage technology to benefit business and how to drive business growth through IT. I enjoy figuring out how things work, staying at the forefront of the latest technologies, and getting hands-on when it makes sense. I thrive on creating something new in startups or medium-sized businesses and dislike being just a cog in a large bureaucratic machine.
+
+<br><br>Lately, I've been focused on driving exponential company growth and applying Data Science and AI to traditional industries, such as Real Estate Investment.
+
+<br><br>Below are a few examples of how I have personally used Data Science to drive business development:
 
 
 <table>
-<tr><td>1. <b>Телекоммуникационная компания</b> - разработка модели для прогноза оттока клиентов</td></tr>
-<tr><td>Инструменты: Python, pandas, Jupiter Notebook.<br>Модели LogisticRegression, SVM, DecisionTreeClassifider, RandomForestClassifider, CatBoostClassifider и другие.<br>Оптимизация через GridSearhCV, RandomizedSearchCV, Optuna.<br>Анализ корреляций - phik. Анализ продуктовых наборов - upsetplot<br>Визуализация - matplotlib, seaborn.<br>Посмотреть тетрадку Jupiter Notebook: https://github.com/AndreyBWhite/AndreyBWhite/blob/main/TelecomCustomerAttrition/TelecomCustomerAttrition.ipynb</td></tr>
+<tr><td>1. <b>Telecommunications Company</b> - Developing a model to predict customer attrition</td></tr>
+<tr><td>Tools: Python, pandas, Jupyter Notebook.<br>Models: LogisticRegression, SVM, DecisionTreeClassifier, RandomForestClassifier, CatBoostClassifier, and others.<br>Optimization through GridSearchCV, RandomizedSearchCV, Optuna.<br>Correlation analysis - phik. Product set analysis - upsetplot.<br>Visualization - matplotlib, seaborn.<br>View Jupyter Notebook: <a href="https://github.com/AndreyBWhite/AndreyBWhite/blob/main/TelecomCustomerAttrition/TelecomCustomerAttrition.ipynb">TelecomCustomerAttrition.ipynb</a></td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td>2. <b>Поиск наиболее привлекательных городов для инвестиций в Residential Real Estate под стратегию Rental по всему миру</b></td></tr>
-<tr><td>Инструменты: Python, pandas, OpenStreetMap.<br>Агрегация и нормализация справочников. Работа с источниками из Numbeo, ISO, мировых данных по городам и публикация нормализованных данных через Folium, GeoJSON.<br>Посмотреть интерактивную карту: https://AndreyBWhite.github.io/AndreyBWhite/GRY_2024_worldmap.html </td></tr>
+<tr><td>2. <b>Identifying the most attractive cities for Residential Real Estate Investment for Rental Strategy Worldwide</b></td></tr>
+<tr><td>Tools: Python, pandas, OpenStreetMap.<br>Aggregation and normalization of reference data. Working with sources from Numbeo, ISO, global city data, and publishing normalized data via Folium, GeoJSON.<br>View interactive map: <a href="https://AndreyBWhite.github.io/AndreyBWhite/GRY_2024_worldmap.html">GRY_2024_worldmap.html</a></td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td>3. <b>Модель оценки справедливой цены и инструмент поиска наилучших предложений среди объектов Residential Real Estate на Кипре</b></td></tr>
-<tr><td>Инструменты: Python, pandas, MongoDB (для обработки больших объемов JSON), PostgreSQL.<br>Публикация через Folium, GeoJSON <br>Посмотреть интерактивную карту: https://AndreyBWhite.github.io/AndreyBWhite/Best_ppsqm_all_Paphos.html</td></tr>
+<tr><td>3. <b>Fair price valuation Model and Tool for finding the best deals among Residential Real Estate properties in Cyprus</b></td></tr>
+<tr><td>Tools: Python, pandas, MongoDB (for processing large size of JSON), PostgreSQL.<br>Publication via Folium, GeoJSON.<br>View interactive map: <a href="https://AndreyBWhite.github.io/AndreyBWhite/Best_ppsqm_all_Paphos.html">Best_ppsqm_all_Paphos.html</a></td></tr>
 </table>
 
 
-(ENG)
+Some more about me:
 
 - 👀 I’m interested in driving the growth of high-tech businesses through advancements in computer and modern technologies, including applications, software, data management, and more. 
-- 🌱 I’m currently learning how to optimally apply Data Science to conservative traditional markets, such as Real Estate.
-- 💞️ I’m seeking collaboration opportunities with developers and data analysts. Additionally, I’m keen on connecting with representatives from the Real Estate market, although I harbor skepticism about their awareness of this resource. This skepticism underscores why the Real Estate sector serves as a quintessential example of a traditional, conservative market... You can find some results as interactive HTML files for the Best GRY in 2024 and a tool to discover the best Residential Properties.
-- 📫 How to reach me Telegram: https://t.me/Andrewsbel LinkedIn: https://www.linkedin.com/in/abeloborodov/ 
-- 😄 Pronouns: Sticks and stones may break my bones, but words will never hurt me. Call me what you like; just call me for dinner.
+- 💞️ I’m seeking collaboration opportunities with developers and data analysts. Additionally, I’m keen on connecting with representatives from the Real Estate market, although I harbor skepticism about their awareness of this resource. This skepticism underscores why the Real Estate sector serves as a quintessential example of a traditional, conservative market... 
+- 📫 If you intrested, you can reach me Telegram: https://t.me/Andrewsbel or LinkedIn: https://www.linkedin.com/in/abeloborodov/ 
 - ⚡ Fun fact: When I first started programming, my first computer came equipped with a HDD 20 MB hard drive. Back then, that was considered a large hard drive.
