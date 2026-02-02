@@ -12,7 +12,7 @@ Today I focus on **early-stage systems**:
 - decisions that matter more than frameworks.
 
 ### Current focus
-- **AI Launch OS** — a hands-on system for startup discovery and execution
+- **AI Launch OS (AILOS)** — a hands-on system for startup discovery and execution
 - **Cyprus Real Estate** — applied AI and analytics for valuation and investment decisions
 - Selective founder support as an operator / tracking partner
 
